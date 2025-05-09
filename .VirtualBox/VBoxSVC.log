@@ -1,0 +1,71 @@
+00:00:00.002453 main     VirtualBox COM Server 6.0.8 r130520 win.amd64 (May 13 2019 14:14:44) release log
+00:00:00.002455 main     Log opened 2021-11-05T18:50:38.398702100Z
+00:00:00.002456 main     Build Type: release
+00:00:00.002462 main     OS Product: Windows 10
+00:00:00.002463 main     OS Release: 10.0.19042
+00:00:00.002463 main     OS Service Pack: 
+00:00:00.061856 main     DMI Product Name: HP ProBook x360 440 G1
+00:00:00.074006 main     DMI Product Version:  
+00:00:00.074017 main     Host RAM: 16275MB (15.8GB) total, 9597MB (9.3GB) available
+00:00:00.074023 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.074024 main     Process ID: 14576
+00:00:00.074024 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.128393          VirtualBox: object creation starts
+00:00:00.128603          Home directory: 'C:\Users\KIIT\.VirtualBox'
+00:00:00.128719          Installed Drivers:
+00:00:00.130964            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.0.8.30520)
+00:00:00.131799            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.0.8.30520)
+00:00:00.132151            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.0.8.30520)
+00:00:00.132927            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.0.8.30520)
+00:00:00.151865          Loading settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.190637          Getting USB descriptor failed with error 31
+00:00:00.190722          Getting USB descriptor failed with error 31
+00:00:00.190780          Getting USB descriptor failed with error 31
+00:00:00.192607          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb5e7)
+00:00:00.192670          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0a2b)
+00:00:00.305924          netIfIsWireless: CreateFile on '\\.\{FD7D3A46-562D-477F-8C3E-2040E749479A}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.309548          netIfIsWireless: CreateFile on '\\.\{4C076A62-7D20-4655-A0D2-76954EAA9A5C}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.326447          HostDnsMonitor::updateInfo
+00:00:00.326472          HostDnsMonitor: old information
+00:00:00.326473            no server entries
+00:00:00.326473            no domain set
+00:00:00.326474            no search string entries
+00:00:00.326474          HostDnsMonitor: new information
+00:00:00.326475            server 1: 192.168.95.250
+00:00:00.326475            no domain set
+00:00:00.326476            no search string entries
+00:00:00.450556          VD: VDInit finished with VINF_SUCCESS
+00:00:00.457849          Loading settings file "C:\Users\KIIT\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+00:00:00.463851          Loading settings file "C:\Users\KIIT\VirtualBox VMs\KaliMaan\KaliMaan.vbox" with version "1.16-windows"
+00:00:00.470400          Loading settings file "C:\Users\KIIT\VirtualBox VMs\Metasploitable\Metasploitable.vbox" with version "1.16-windows"
+00:00:00.478826          OCI: Local config file 'C:\Users\KIIT\.VirtualBox\oci_config' does not exist
+00:00:00.478931          OCI: Original config file 'C:\Users\KIIT\.oci\config' does not exist
+00:00:00.478933          OCI: Reading profiles finished with status ERROR_SUCCESS
+00:00:00.478940          ExtPack: Created cloud provider 'OCI' (hrc=ERROR_SUCCESS)
+00:00:00.478971          VirtualBox: object created
+00:00:06.260178          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:06.278070          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:59.754754          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:01:00.271090          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:01:00.824682          netIfIsWireless: CreateFile on '\\.\{FD7D3A46-562D-477F-8C3E-2040E749479A}' failed with rcWin=2 (0x2) - ignoring
+00:01:00.828153          netIfIsWireless: CreateFile on '\\.\{4C076A62-7D20-4655-A0D2-76954EAA9A5C}' failed with rcWin=2 (0x2) - ignoring
+00:01:01.473388          netIfIsWireless: CreateFile on '\\.\{FD7D3A46-562D-477F-8C3E-2040E749479A}' failed with rcWin=2 (0x2) - ignoring
+00:01:01.478115          netIfIsWireless: CreateFile on '\\.\{4C076A62-7D20-4655-A0D2-76954EAA9A5C}' failed with rcWin=2 (0x2) - ignoring
+00:01:36.489092          Saving settings file "C:\Users\KIIT\VirtualBox VMs\KaliMaan\KaliMaan.vbox" with version "1.16-windows"
+00:02:02.309828          Saving settings file "C:\Users\KIIT\VirtualBox VMs\KaliMaan\KaliMaan.vbox" with version "1.16-windows"
+00:02:08.270813          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:02:08.506675          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:02:08.823147          netIfIsWireless: CreateFile on '\\.\{FD7D3A46-562D-477F-8C3E-2040E749479A}' failed with rcWin=2 (0x2) - ignoring
+00:02:08.826379          netIfIsWireless: CreateFile on '\\.\{4C076A62-7D20-4655-A0D2-76954EAA9A5C}' failed with rcWin=2 (0x2) - ignoring
+00:02:09.065847          netIfIsWireless: CreateFile on '\\.\{FD7D3A46-562D-477F-8C3E-2040E749479A}' failed with rcWin=2 (0x2) - ignoring
+00:02:09.069502          netIfIsWireless: CreateFile on '\\.\{4C076A62-7D20-4655-A0D2-76954EAA9A5C}' failed with rcWin=2 (0x2) - ignoring
+00:02:59.681483          Saving settings file "C:\Users\KIIT\VirtualBox VMs\Metasploitable\Metasploitable.vbox" with version "1.16-windows"
+00:07:03.855018          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:07:03.872760          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:07:03.880932          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:07:09.406430 main     VirtualBox: object deletion starts
+00:07:09.408596 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\KIIT\VirtualBox VMs\UBUNTU\UBUNTU.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:07:09.409752 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\KIIT\VirtualBox VMs\KaliMaan\KaliMaan.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:07:09.411132 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\KIIT\Downloads\Metasploitable2-Linux\Metasploitable.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:07:09.420837 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:07:09.421115 main     VirtualBox: object deleted

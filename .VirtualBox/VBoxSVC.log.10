@@ -1,0 +1,64 @@
+00:00:00.002371 main     VirtualBox COM Server 6.0.8 r130520 win.amd64 (May 13 2019 14:14:44) release log
+00:00:00.002373 main     Log opened 2021-08-09T07:51:13.163013800Z
+00:00:00.002374 main     Build Type: release
+00:00:00.002380 main     OS Product: Windows 10
+00:00:00.002381 main     OS Release: 10.0.19042
+00:00:00.002381 main     OS Service Pack: 
+00:00:00.025794 main     DMI Product Name: HP ProBook x360 440 G1
+00:00:00.037845 main     DMI Product Version:  
+00:00:00.037857 main     Host RAM: 16275MB (15.8GB) total, 10931MB (10.6GB) available
+00:00:00.037863 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.037864 main     Process ID: 19880
+00:00:00.037864 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.089549          VirtualBox: object creation starts
+00:00:00.089780          Home directory: 'C:\Users\KIIT\.VirtualBox'
+00:00:00.089890          Installed Drivers:
+00:00:00.092073            C:\WINDOWS\system32\DRIVERS\VBoxNetLwf.sys (Version: 6.0.8.30520)
+00:00:00.092829            C:\WINDOWS\system32\DRIVERS\VBoxUSBMon.sys (Version: 6.0.8.30520)
+00:00:00.093189            C:\WINDOWS\system32\DRIVERS\VBoxDrv.sys (Version: 6.0.8.30520)
+00:00:00.093942            C:\WINDOWS\system32\DRIVERS\VBoxNetAdp6.sys (Version: 6.0.8.30520)
+00:00:00.100976          Loading settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.128480          Getting USB descriptor failed with error 31
+00:00:00.128543          Getting USB descriptor failed with error 31
+00:00:00.128594          Getting USB descriptor failed with error 31
+00:00:00.130234          USB: Unknown USB device detected (idVendor: 0x04f2, idProduct: 0xb5e7)
+00:00:00.130308          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0a2b)
+00:00:00.217669          netIfIsWireless: CreateFile on '\\.\{FD7D3A46-562D-477F-8C3E-2040E749479A}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.221242          netIfIsWireless: CreateFile on '\\.\{4C076A62-7D20-4655-A0D2-76954EAA9A5C}' failed with rcWin=2 (0x2) - ignoring
+00:00:00.237712          HostDnsMonitor::updateInfo
+00:00:00.237755          HostDnsMonitor: old information
+00:00:00.237756            no server entries
+00:00:00.237757            no domain set
+00:00:00.237757            no search string entries
+00:00:00.237758          HostDnsMonitor: new information
+00:00:00.237758            server 1: 192.168.175.240
+00:00:00.237759            no domain set
+00:00:00.237759            no search string entries
+00:00:00.336762          VD: VDInit finished with VINF_SUCCESS
+00:00:00.338048          Loading settings file "C:\Users\KIIT\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+00:00:00.338977          Loading settings file "C:\Users\KIIT\VirtualBox VMs\KaliMaan\KaliMaan.vbox" with version "1.16-windows"
+00:00:00.339638          Loading settings file "C:\Users\KIIT\VirtualBox VMs\Metasploitable\Metasploitable.vbox" with version "1.16-windows"
+00:00:00.348665          OCI: Local config file 'C:\Users\KIIT\.VirtualBox\oci_config' does not exist
+00:00:00.348771          OCI: Original config file 'C:\Users\KIIT\.oci\config' does not exist
+00:00:00.348773          OCI: Reading profiles finished with status ERROR_SUCCESS
+00:00:00.348779          ExtPack: Created cloud provider 'OCI' (hrc=ERROR_SUCCESS)
+00:00:00.348811          VirtualBox: object created
+00:00:21.836957          Load [C:\Program Files\Oracle\VirtualBox\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] vrc=VINF_SUCCESS
+00:00:22.030749          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={5047460a-265d-4538-b23e-ddba5fb84976} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=-37
+00:00:22.387773          netIfIsWireless: CreateFile on '\\.\{FD7D3A46-562D-477F-8C3E-2040E749479A}' failed with rcWin=2 (0x2) - ignoring
+00:00:22.390981          netIfIsWireless: CreateFile on '\\.\{4C076A62-7D20-4655-A0D2-76954EAA9A5C}' failed with rcWin=2 (0x2) - ignoring
+00:03:31.470141 dns-monitor HostDnsMonitor::updateInfo
+00:03:31.470169 dns-monitor HostDnsMonitor: unchanged
+00:33:30.581863 dns-monitor HostDnsMonitor::updateInfo
+00:33:30.582060 dns-monitor HostDnsMonitor: unchanged
+00:37:39.588942          Saving settings file "C:\Users\KIIT\VirtualBox VMs\UBUNTU\UBUNTU.vbox" with version "1.16-windows"
+00:37:44.606931          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:37:44.672917          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:37:44.684398          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:37:44.708268          Saving settings file "C:\Users\KIIT\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:37:50.367516 main     VirtualBox: object deletion starts
+00:37:50.367685 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\KIIT\VirtualBox VMs\UBUNTU\UBUNTU.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:37:50.369367 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\KIIT\VirtualBox VMs\KaliMaan\KaliMaan.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:37:50.370723 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium 'C:\Users\KIIT\Downloads\Metasploitable2-Linux\Metasploitable.vmdk' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:37:50.391891 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:37:50.392957 main     VirtualBox: object deleted

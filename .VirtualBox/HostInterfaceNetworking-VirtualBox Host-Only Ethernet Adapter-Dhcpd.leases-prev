@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Leases version="1.0">
+  <Lease mac="08:00:27:22:49:0c" id="0108002722490c" network="0.0.0.0" state="acked">
+    <Address value="192.168.56.102"/>
+    <Time issued="1636138317" expiration="1200"/>
+  </Lease>
+  <Lease mac="08:00:27:49:17:6d" network="0.0.0.0" state="expired">
+    <Address value="192.168.56.101"/>
+    <Time issued="1624338409" expiration="1200"/>
+  </Lease>
+</Leases>

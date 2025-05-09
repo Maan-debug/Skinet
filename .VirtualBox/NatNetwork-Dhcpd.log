@@ -1,0 +1,35 @@
+00:00:01.450645 VirtualBox DHCP Server 6.0.8 r130520 win.amd64 (May 13 2019 14:13:43) release log
+00:00:01.450651 Log opened 2020-04-27T04:51:04.405417900Z
+00:00:01.450652 Build Type: release
+00:00:01.450661 OS Product: Windows 10
+00:00:01.450663 OS Release: 10.0.17763
+00:00:01.450664 OS Service Pack: 
+00:00:01.741987 DMI Product Name: HP ProBook x360 440 G1
+00:00:01.769917 DMI Product Version:  
+00:00:01.769940 Host RAM: 16275MB (15.8GB) total, 10546MB (10.2GB) available
+00:00:01.769951 Executable: C:\Program Files\Oracle\VirtualBox\VBoxNetDHCP.exe
+00:00:01.769952 Process ID: 18596
+00:00:01.769953 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.770161 MAC address is not specified: will use generated MAC 08:00:27:d0:0b:16
+00:00:01.770184 IP address 10.0.2.3/24
+00:00:01.770195 address pool 10.0.2.4 - 10.0.2.254
+00:00:01.770255 loading leases from C:\Users\KIIT\.VirtualBox\NatNetwork-Dhcpd.leases
+00:00:01.780997 > LOAD: lease 10.0.2.5 to 00:99:88:77:66:55, expired, valid from 2019-09-13T22:10:54Z for 1200s until 2019-09-13T22:30:54Z
+00:00:01.781079 > LOAD: EXPIRED lease 10.0.2.4 to 08:00:27:91:6d:fb, expired, valid from 2019-12-25T13:16:22Z for 1200s until 2019-12-25T13:36:22Z
+00:00:19.656897 DISCOVER xid 0x2a2ff310 chaddr 08:00:27:91:6d:fb
+00:00:19.656939  ciaddr 0.0.0.0
+00:00:19.656953  requested address 10.0.2.4
+00:00:19.656968  params { 1 28 2 3 15 6 119 12 44 47 26 121 42 249 33 252 17 }
+00:00:19.657069  other options: 12
+00:00:19.657086 > allocateAddress 10.0.2.4 to client 08:00:27:91:6d:fb
+00:00:19.657095 > .... noted expired binding 10.0.2.5 to 00:99:88:77:66:55, expired, valid from 2019-09-13T22:10:54Z for 1200s until 2019-09-13T22:30:54Z
+00:00:19.657108 > ... found existing binding 10.0.2.4 to 08:00:27:91:6d:fb, expired, valid from 2019-12-25T13:16:22Z for 1200s until 2019-12-25T13:36:22Z
+00:00:19.658125 REQUEST for server 10.0.2.3 xid 0x2a2ff310 chaddr 08:00:27:91:6d:fb
+00:00:19.658164  ciaddr 0.0.0.0
+00:00:19.658176  requested address 10.0.2.4
+00:00:19.658191  params { 1 28 2 3 15 6 119 12 44 47 26 121 42 249 33 252 17 }
+00:00:19.658291  other options: 12 54
+00:00:19.658314 > allocateAddress 10.0.2.4 to client 08:00:27:91:6d:fb
+00:00:19.658323 > .... noted expired binding 10.0.2.5 to 00:99:88:77:66:55, expired, valid from 2019-09-13T22:10:55Z for 1200s until 2019-09-13T22:30:55Z
+00:00:19.658335 > ... found existing binding 10.0.2.4 to 08:00:27:91:6d:fb, offered, valid from 2020-04-27T04:51:22Z for 1200s until 2020-04-27T05:11:22Z
+00:00:19.658347 writing leases to C:\Users\KIIT\.VirtualBox\NatNetwork-Dhcpd.leases

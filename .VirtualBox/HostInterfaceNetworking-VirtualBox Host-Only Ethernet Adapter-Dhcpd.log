@@ -1,0 +1,40 @@
+00:00:00.412365 VirtualBox DHCP Server 6.0.8 r130520 win.amd64 (May 13 2019 14:13:43) release log
+00:00:00.412367 Log opened 2021-11-05T18:51:41.949842300Z
+00:00:00.412368 Build Type: release
+00:00:00.412372 OS Product: Windows 10
+00:00:00.412373 OS Release: 10.0.19042
+00:00:00.412374 OS Service Pack: 
+00:00:00.660558 DMI Product Name: HP ProBook x360 440 G1
+00:00:00.673511 DMI Product Version:  
+00:00:00.673523 Host RAM: 16275MB (15.8GB) total, 9254MB (9.0GB) available
+00:00:00.673529 Executable: C:\Program Files\Oracle\VirtualBox\VBoxNetDHCP.exe
+00:00:00.673529 Process ID: 20784
+00:00:00.673530 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.673626 MAC address is not specified: will use generated MAC 08:00:27:56:d6:1c
+00:00:00.673638 IP address 192.168.56.100/24
+00:00:00.673644 address pool 192.168.56.101 - 192.168.56.254
+00:00:00.673675 loading leases from C:\Users\KIIT\.VirtualBox\HostInterfaceNetworking-VirtualBox Host-Only Ethernet Adapter-Dhcpd.leases
+00:00:00.678665 > LOAD: EXPIRED lease 192.168.56.102 to [01:08:00:27:22:49:0c] (08:00:27:22:49:0c), expired, valid from 2021-08-09T06:37:41Z for 1200s until 2021-08-09T06:57:41Z
+00:00:00.678711 > LOAD: lease 192.168.56.101 to 08:00:27:49:17:6d, expired, valid from 2021-06-22T05:06:48Z for 1200s until 2021-06-22T05:26:48Z
+00:00:15.977873 REQUEST xid 0xecb9b17e chaddr 08:00:27:22:49:0c
+00:00:15.977910  client id: 01 08 00 27 22 49 0c
+00:00:15.977918  ciaddr 0.0.0.0
+00:00:15.977941  requested address 192.168.56.102
+00:00:15.977955  params { 1 2 6 12 15 26 28 121 3 33 40 41 42 119 249 252 17 }
+00:00:15.978057  other options: 12 57
+00:00:15.978077 > allocateAddress 192.168.56.102 to client [01:08:00:27:22:49:0c] (08:00:27:22:49:0c)
+00:00:15.978089 > ... found existing binding 192.168.56.102 to [01:08:00:27:22:49:0c] (08:00:27:22:49:0c), expired, valid from 2021-08-09T06:37:42Z for 1200s until 2021-08-09T06:57:42Z
+00:00:15.978108 writing leases to C:\Users\KIIT\.VirtualBox\HostInterfaceNetworking-VirtualBox Host-Only Ethernet Adapter-Dhcpd.leases
+00:01:19.930871 DISCOVER xid 0x11b58a7d chaddr 08:00:27:49:17:6d
+00:01:19.930906  ciaddr 0.0.0.0
+00:01:19.930921  params { 1 28 2 3 15 6 12 42 }
+00:01:19.930979 > allocateAddress to client 08:00:27:49:17:6d
+00:01:19.930986 > ... found existing binding 192.168.56.101 to 08:00:27:49:17:6d, expired, valid from 2021-06-22T05:06:49Z for 1200s until 2021-06-22T05:26:49Z
+00:01:19.931446 REQUEST for server 192.168.56.100 xid 0x11b58a7d chaddr 08:00:27:49:17:6d
+00:01:19.931470  ciaddr 0.0.0.0
+00:01:19.931479  requested address 192.168.56.101
+00:01:19.931489  params { 1 28 2 3 15 6 12 42 }
+00:01:19.931526  other options: 54
+00:01:19.931537 > allocateAddress 192.168.56.101 to client 08:00:27:49:17:6d
+00:01:19.931544 > ... found existing binding 192.168.56.101 to 08:00:27:49:17:6d, offered, valid from 2021-11-05T18:53:01Z for 1200s until 2021-11-05T19:13:01Z
+00:01:19.931553 writing leases to C:\Users\KIIT\.VirtualBox\HostInterfaceNetworking-VirtualBox Host-Only Ethernet Adapter-Dhcpd.leases

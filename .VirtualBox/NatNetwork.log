@@ -1,0 +1,16 @@
+00:00:01.791367 VirtualBox NAT Network 6.0.8 r130520 win.amd64 (May 13 2019 14:14:44) release log
+00:00:01.791372 Log opened 2020-04-27T04:51:04.746044800Z
+00:00:01.791373 Build Type: release
+00:00:01.791380 OS Product: Windows 10
+00:00:01.791382 OS Release: 10.0.17763
+00:00:01.791383 OS Service Pack: 
+00:00:01.907011 DMI Product Name: HP ProBook x360 440 G1
+00:00:01.914010 DMI Product Version:  
+00:00:01.914047 Host RAM: 16275MB (15.8GB) total, 10546MB (10.2GB) available
+00:00:01.914076 Executable: C:\Program Files\Oracle\VirtualBox\VBoxNetNAT.exe
+00:00:01.914078 Process ID: 13940
+00:00:01.914079 Package type: WINDOWS_64BITS_GENERIC
+00:00:02.078271 SUP: Opened VMMR0.r0 (C:\Program Files\Oracle\VirtualBox\VMMR0.r0) at 0xXXXXXXXXXXXXXXXX loaded by the native ring-0 loader.
+00:00:02.078307 SUP: windbg> .reload /f C:\Program Files\Oracle\VirtualBox\VMMR0.r0=0xXXXXXXXXXXXXXXXX
+00:00:02.085310 netif NT0: mac 52:54:00:12:35:00
+00:00:02.085341 netif NT0: inet 10.0.2.1 netmask 255.255.255.0
