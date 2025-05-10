@@ -1,0 +1,92 @@
+[
+  {
+    "Name": "Angular Speedster Board 2000",
+    "Description": "Description 1",
+    "Price": 200,
+    "PictureURL": "/images/products/",
+    "Type": "Boards",
+    "Brand": "Angular",
+    "QuantityInStock": 82
+  },
+  {
+    "Name": "React Rocket Board 3000",
+    "Description": "Description 2",
+    "Price": 250,
+    "PictureURL": "/images/products/",
+    "Type": "Boards",
+    "Brand": "React",
+    "QuantityInStock": 60
+  },
+  {
+    "Name": "Vue Velocity Board 1500",
+    "Description": "Description 3",
+    "Price": 180,
+    "PictureURL": "/images/products/",
+    "Type": "Boards",
+    "Brand": "Vue",
+    "QuantityInStock": 45
+  },
+  {
+    "Name": "Svelte Surf Board 1000",
+    "Description": "Description 4",
+    "Price": 220,
+    "PictureURL": "/images/products/",
+    "Type": "Boards",
+    "Brand": "Svelte",
+    "QuantityInStock": 70
+  },
+  {
+    "Name": "Blazor Boost Board 4000",
+    "Description": "Description 5",
+    "Price": 300,
+    "PictureURL": "/images/products/",
+    "Type": "Boards",
+    "Brand": "Blazor",
+    "QuantityInStock": 55
+  },
+  {
+    "Name": "Next Nitro Board 500",
+    "Description": "Description 6",
+    "Price": 175,
+    "PictureURL": "/images/products/",
+    "Type": "Boards",
+    "Brand": "Next",
+    "QuantityInStock": 90
+  },
+  {
+    "Name": "Nuxt Nova Board 800",
+    "Description": "Description 7",
+    "Price": 195,
+    "PictureURL": "/images/products/",
+    "Type": "Boards",
+    "Brand": "Nuxt",
+    "QuantityInStock": 40
+  },
+  {
+    "Name": "Alpine Aero Board 600",
+    "Description": "Description 8",
+    "Price": 160,
+    "PictureURL": "/images/products/",
+    "Type": "Boards",
+    "Brand": "Alpine",
+    "QuantityInStock": 100
+  },
+  {
+    "Name": "Solid Streak Board 900",
+    "Description": "Description 9",
+    "Price": 210,
+    "PictureURL": "/images/products/",
+    "Type": "Boards",
+    "Brand": "Solid",
+    "QuantityInStock": 35
+  },
+  {
+    "Name": "Ember Edge Board 2500",
+    "Description": "Description 10",
+    "Price": 230,
+    "PictureURL": "/images/products/",
+    "Type": "Boards",
+    "Brand": "Ember",
+    "QuantityInStock": 65
+  }
+]
